@@ -1,0 +1,5 @@
+<div class="contenedor">
+  <h1>Sistema Gestor de Empleados</h1>
+  <app-empleado-form (registrar)="onRegistrar($event)"></app-empleado-form>
+  <app-empleado-list [empleados]="empleados" (cambiarEstado)="onCambiarEstado($event)"></app-empleado-list>
+</div>
