@@ -1,0 +1,5 @@
+<form (ngSubmit)="onSubmit()" class="form-empleado">
+  <input type="text" name="nombreCompleto" [(ngModel)]="nombreCompleto" placeholder="Nombre completo" required />
+  <input type="text" name="puesto" [(ngModel)]="puesto" placeholder="Puesto" required />
+  <button type="submit">Agregar Empleado</button>
+</form>

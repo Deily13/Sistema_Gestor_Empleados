@@ -1,0 +1,26 @@
+<table class="tabla-empleados">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Nombre completo</th>
+    <th>Puesto</th>
+    <th>Estado</th>
+    <th></th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let empleado of empleados">
+    <td>{{ empleado.id }}</td>
+    <td>{{ empleado.nombreCompleto }}</td>
+    <td>{{ empleado.puesto }}</td>
+    <td>
+        <span class="estado" [class.presente]="empleado.estado === 'PRESENTE'">
+          {{ empleado.estado }}
+        </span>
+    </td>
+    <td>
+      <button (click)="onCambiarEstado(empleado.id)">Cambiar Estado</button>
+    </td>
+  </tr>
+  </tbody>
+</table>
