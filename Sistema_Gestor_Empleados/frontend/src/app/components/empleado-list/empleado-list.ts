@@ -6,10 +6,10 @@ import { Empleado } from '../../models/empleado.model';
   selector: 'app-empleado-list',
   standalone: true,
   imports: [CommonModule],
-  templateUrl: './empleado-list.component.html',
-  styleUrl: './empleado-list.component.css'
+  templateUrl: './empleado-list.html',
+  styleUrl: './empleado-list.css'
 })
-export class EmpleadoListComponent {
+export class EmpleadoList {
   @Input() empleados: Empleado[] = [];
   @Output() cambiarEstado = new EventEmitter<number>();
 

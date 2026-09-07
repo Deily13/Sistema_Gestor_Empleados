@@ -1,13 +1,13 @@
 import { Component, OnInit } from '@angular/core';
-import { EmpleadoListComponent } from './components/empleado-list/empleado-list';
-import { EmpleadoFormComponent } from './components/empleado-form/empleado-form';
+import { EmpleadoList } from './components/empleado-list/empleado-list';
+import { EmpleadoForm } from './components/empleado-form/empleado-form';
 import { EmpleadoService } from './services/empleado.service';
 import { Empleado } from './models/empleado.model';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [EmpleadoListComponent, EmpleadoFormComponent],
+  imports: [EmpleadoList, EmpleadoForm],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

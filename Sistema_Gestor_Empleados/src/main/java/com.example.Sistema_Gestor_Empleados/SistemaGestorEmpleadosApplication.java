@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SitemaGestorEmpleadosApplication {
+public class SistemaGestorEmpleadosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SitemaGestorEmpleadosApplication.class, args);
+		SpringApplication.run(SistemaGestorEmpleadosApplication.class, args);
 	}
 
 }

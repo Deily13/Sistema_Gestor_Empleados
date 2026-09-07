@@ -6,10 +6,10 @@ import { Empleado } from '../../models/empleado.model';
   selector: 'app-empleado-form',
   standalone: true,
   imports: [FormsModule],
-  templateUrl: './empleado-form.component.html',
-  styleUrl: './empleado-form.component.css'
+  templateUrl: './empleado-form.html',
+  styleUrl: './empleado-form.css'
 })
-export class EmpleadoFormComponent {
+export class EmpleadoForm {
   @Output() registrar = new EventEmitter<Empleado>();
 
   nombreCompleto = '';
