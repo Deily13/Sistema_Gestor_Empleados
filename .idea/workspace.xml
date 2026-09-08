@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09833636-68a7-457b-90da-5df7be702082" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sistema_Gestor_Empleados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/src/main/java/com.example.Gestor_Empleados/GestorEmpleadosApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestor_Empleados/src/test/java/com/example/Gestor_Empleados/GestorEmpleadosApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/ app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-form/empleado-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-form/empleado-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-form/empleado-form.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-form/empleado-form.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-list/empleado-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-list/empleado-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-list/empleado-list.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/components/empleado-list/empleado-list.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/models/empleado.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/app/services/empleado.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/frontend/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Controllers/EmpleadoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Model/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Repository/EmpleadoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Service/EmpleadoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Service/ServiceImpl/EmpleadoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/SitemaGestorEmpleadosApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sistema_Gestor_Empleados/Sistema_Gestor_Empleados/src/test/java/com/example/Sitema_Gestor_Empleados/SitemaGestorEmpleadosApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Controllers/EmpleadoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Model/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Repository/EmpleadoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Service/EmpleadoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com.example.Sistema_Gestor_Empleados/Service/ServiceImpl/EmpleadoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com/example/Sistema_Gestor_Empleados/Service/EmpleadoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sitema_Gestor_Empleados/Sitema_Gestor_Empleados/src/main/java/com/example/Sistema_Gestor_Empleados/Service/ServiceImpl/ServiceImpl/EmpleadoServiceImpl.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J0bv9xilhBhiHtBckE9yZKdXtD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/quice/Documents/Sistema_Gestor_Empleados&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.26206896&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quice\Documents\Sistema_Gestor_Empleados\Sitema_Gestor_Empleados\Sitema_Gestor_Empleados\src\main\java\com.example.Sistema_Gestor_Empleados" />
+      <recent name="C:\Users\quice\Documents\Sistema_Gestor_Empleados\Gestor_Empleados\src\main\java\com.example.Gestor_Empleados" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sistema_Gestor_Empleados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Sistema_Gestor_Empleados" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09833636-68a7-457b-90da-5df7be702082" name="Changes" comment="" />
+      <created>1788801160294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788801160294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
